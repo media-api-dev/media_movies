@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="La Caja Azul (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dkIzjzfv7TbXqjbJKM51CZYORaR.jpg" group-title="→ VOD ESTRENOS 2026 ←",La Caja Azul (2026)
+http://www.radic.vip:8080/movie/54bahu98de366sa88/58wumu473muwu85/281038.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bolas Arriba (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uVybc3pLqHSoMC73kElu93oJBRQ.jpg" group-title="→ VOD ESTRENOS 2026 ←",Bolas Arriba (2026)
+http://www.radic.vip:8080/movie/54bahu98de366sa88/58wumu473muwu85/281036.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Terror en Silent Hill: Regreso al infierno (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8JcaYXZYlT2nYlsgo1Uv7RH9FP.jpg" group-title="→ VOD ESTRENOS 2026 ←",Terror en Silent Hill: Regreso al infierno (2026)
+http://www.radic.vip:8080/movie/54bahu98de366sa88/58wumu473muwu85/281037.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Intercambiados (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFMqLI43ybVFyarJTnfV9YO9KUC.jpg" group-title="→ VOD ESTRENOS 2026 ←",Intercambiados (2026)
+http://www.radic.vip:8080/movie/54bahu98de366sa88/58wumu473muwu85/281030.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Instinto Implacable (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Awvlydvag364audeksfRFldVslq.jpg" group-title="→ VOD ESTRENOS 2026 ←",Instinto Implacable (2026)
 http://www.radic.vip:8080/movie/54bahu98de366sa88/58wumu473muwu85/281019.mp4
 #EXTINF:-1 tvg-id="" tvg-name="El Rey Arturo: La Leyenda de la Espada (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wl2LLrxuCRoAP1TDOz8Et8exwsx.jpg" group-title="→ VOD ACCIÓN ←",El Rey Arturo: La Leyenda de la Espada (2017)
