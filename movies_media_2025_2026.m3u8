@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="El Silencio de los Inocentes (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrzX7TCmoD5gedFeqb1iB9sBaSn.jpg" group-title="→ VOD CLÁSICAS ←",El Silencio de los Inocentes (1991)
+http://www.radic.vip:8080/movie/54bahu98de366sa88/58wumu473muwu85/281100.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cumbres Borrascosas (2026) (Version Modificada)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kCb3QJNLi0alrk7i5aCphkkuoFl.jpg" group-title="→ VOD ESTRENOS 2026 ←",Cumbres Borrascosas (2026) (Version Modificada)
+http://www.radic.vip:8080/movie/54bahu98de366sa88/58wumu473muwu85/281045.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La Caja Azul (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dkIzjzfv7TbXqjbJKM51CZYORaR.jpg" group-title="→ VOD ESTRENOS 2026 ←",La Caja Azul (2026)
 http://www.radic.vip:8080/movie/54bahu98de366sa88/58wumu473muwu85/281038.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bolas Arriba (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uVybc3pLqHSoMC73kElu93oJBRQ.jpg" group-title="→ VOD ESTRENOS 2026 ←",Bolas Arriba (2026)
